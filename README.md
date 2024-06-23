@@ -1,10 +1,17 @@
-- 👋 Hi, I’m RAJENDRA
-- 👀 I’m interested in programming  ...
-- 🌱 I’m currently learning artificial intellingence and datascience ...
-- 💞️ I’m looking to collaborate on python related project ...
-- 📫 you can reach me on my contact 9150273312 ...
+# Hi, I'm Rajendra!
 
-<!---
-rajendragokhale18/rajendragokhale18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a passionate programmer with a keen interest in **Artificial Intelligence** and **Data Science**. I'm always eager to learn and explore new technologies.
+
+## Current Learning
+I'm currently diving deep into:
+- Artificial Intelligence
+- Data Science
+- Python programming
+
+## Collaboration
+I'm looking to collaborate on Python-related projects. If you have an exciting project or idea, let's connect and create something amazing together!
+
+## Contact
+Feel free to reach out to me at:
+- 📞 Phone: +91 9150273312
