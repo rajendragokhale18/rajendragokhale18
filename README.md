@@ -41,10 +41,26 @@ src="https://img.shields.io/github/followers/rajendragokhale18?logo=github&style
 
 <a href="https://github.com/rajendragokhale18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendragokhale18&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+## 🚀 Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/rajendragokhale18/ specializing in A-I & Data Science. Passionate about learning and building in the realms of Data Science 6 followers · 9 following - Chennai, India 20:53 (UTC +05:30) https://rajendragokhale18.netlify.app/ https://orcid.org/0009-0000-4452-3469 in/rajendra-1064bb189 https://www.bing.com/ck/a?!&&p=9f12ddd36e221d01JmltdHM9MTcyMjk4ODgwMCZpZ3VpZD0yMzg0YjY3Mi1jNWUwLTY0MzYtMDYyZS1hMmExYzQ5ZjY1NzMmaW5zaWQ9NTIyMw&ptn=3&ver=2&hsh=3&fclid=2384b672-c5e0-6436-062e-a2a1c49f6573&psq=instagram+ft.rajendraaa&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9mdC5yYWplbmRyYWFhLw&ntb=1 Achievements Achievement: Pull Shark Find a repository… rajendragokhale18 Public Config files for my GitHub profile. config github-config 2 Updated 1 minute ago billing_software Public a billing software for my client(TeraBux.co) JavaScript 1 Updated last week AI-AUTONOMOUS_ROCKET_LAUNCH_MONITORING_SYSTEM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo= specializing in A-I & Data Science. Passionate about learning and building in the realms of Data Science 6 followers · 9 following - Chennai, India 20:53 (UTC +05:30) https://rajendragokhale18.netlify.app/ https://orcid.org/0009-0000-4452-3469 in/rajendra-1064bb189 https://www.bing.com/ck/a?!&&p=9f12ddd36e221d01JmltdHM9MTcyMjk4ODgwMCZpZ3VpZD0yMzg0YjY3Mi1jNWUwLTY0MzYtMDYyZS1hMmExYzQ5ZjY1NzMmaW5zaWQ9NTIyMw&ptn=3&ver=2&hsh=3&fclid=2384b672-c5e0-6436-062e-a2a1c49f6573&psq=instagram+ft.rajendraaa&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9mdC5yYWplbmRyYWFhLw&ntb=1 Achievements Achievement: Pull Shark Find a repository… rajendragokhale18 Public Config files for my GitHub profile. config github-config 2 Updated 1 minute ago billing_software Public a billing software for my client(TeraBux.co) JavaScript 1 Updated last week AI-AUTONOMOUS_ROCKET_LAUNCH_MONITORING_SYSTEM&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/rajendragokhale18/portfolio_rajendra" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=portfolio_rajendra&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  
+  <a href="https://github.com/rajendragokhale18/AI-AUTONOMOUS_ROCKET_LAUNCH_MONITORING_SYSTEM" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=AI-AUTONOMOUS_ROCKET_LAUNCH_MONITORING_SYSTEM&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" />
+  </a>
 
-<br /><br /><br /><br /><br />
+  <a href="https://github.com/rajendragokhale18/portfolio_rajendra" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=portfolio_rajendra&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" />
+  </a>
 
-<div width="100%" align="center"><a href="https://github.com/rajendragokhale18/MaskDetection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=MaskDetection&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div>
+</div>
+
+<br /><br /><br /><br />
+
+<div width="100%" align="center">
+  
+  <a href="https://github.com/rajendragokhale18/MaskDetection" align="center">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=MaskDetection&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" />
+  </a>
+
+</div>
