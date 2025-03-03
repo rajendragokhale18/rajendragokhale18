@@ -43,24 +43,20 @@ src="https://img.shields.io/github/followers/rajendragokhale18?logo=github&style
 
 ## 🚀 Top Repositories
 
-<div width="100%" align="center">
-  
-  <a href="https://github.com/rajendragokhale18/AI-AUTONOMOUS_ROCKET_LAUNCH_MONITORING_SYSTEM" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=AI-AUTONOMOUS_ROCKET_LAUNCH_MONITORING_SYSTEM&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" />
+<div align="center">
+
+  <a href="https://github.com/rajendragokhale18/AI-AUTONOMOUS_ROCKET_LAUNCH_MONITORING_SYSTEM">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=AI-AUTONOMOUS_ROCKET_LAUNCH_MONITORING_SYSTEM&theme=react&hide_border=true" />
   </a>
 
-  <a href="https://github.com/rajendragokhale18/portfolio_rajendra" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=portfolio_rajendra&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" />
+  <a href="https://github.com/rajendragokhale18/portfolio_rajendra">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=portfolio_rajendra&theme=react&hide_border=true" />
   </a>
 
-</div>
+  <br /><br />
 
-<br /><br /><br /><br />
-
-<div width="100%" align="center">
-  
-  <a href="https://github.com/rajendragokhale18/MaskDetection" align="center">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=MaskDetection&title_color=a855f7&text_color=14b8a6&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" />
+  <a href="https://github.com/rajendragokhale18/MaskDetection">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajendragokhale18&repo=MaskDetection&theme=react&hide_border=true" />
   </a>
 
 </div>
