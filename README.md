@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 try:<br>build()<br>except:<br>learn()<br>finally:<br>ship()<br><br>AI Developer exploring the intersection of intelligence, automation, and scalable systems.<br><br>Mostly found working with Python, ML, backend services, and data.<br><br>Turning "this could be useful" into repositories nobody asked for.<br><br>Yet.<br>
 
 
